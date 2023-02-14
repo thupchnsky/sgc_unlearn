@@ -1,5 +1,13 @@
 # Certified Graph Unlearning
-Certified (approximate) machine unlearning for simplified graph convolutional networks (SGCs) with theoretical guarantees [(paper)](https://openreview.net/pdf?id=wCxlGc9ZCwi).
+
+This is the repository of certified (approximate) machine unlearning for simplified graph convolutional networks (SGCs) with theoretical guarantees. Our accompany papers are as follows:
+
+- [ICLR 2023] [Efficient Model Updates for Approximate Unlearning of Graph-Structured Data](https://openreview.net/forum?id=fhcu4FBLciL)
+- [NeurIPS 2022 GLFrontier workshop] [Certified Graph Unlearning](https://openreview.net/forum?id=wCxlGc9ZCwi)
+
+For our extension to graph classification with graph scattering transform, please check the [repository](https://github.com/thupchnsky/graph_unlearn) and the accompany paper.
+
+- [TheWebConf 2023] [Unlearning Nonlinear Graph Classifiers in the Limited Training Data Regime](https://arxiv.org/abs/2211.03216)
 
 # Package Information
 ```
