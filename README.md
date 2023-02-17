@@ -46,6 +46,15 @@ Please contact Chao Pan (chaopan2@illinois.edu), Eli Chien (ichien3@illinois.edu
 If you find our code or work useful, please consider citing our paper:
 ```
 @inproceedings{
+chien2023efficient,
+title={Efficient Model Updates for Approximate Unlearning of Graph-Structured Data},
+author={Eli Chien and Chao Pan and Olgica Milenkovic},
+booktitle={International Conference on Learning Representations},
+year={2023},
+url={https://openreview.net/forum?id=fhcu4FBLciL}
+}
+
+@inproceedings{
 chien2022certified,
 title={Certified Graph Unlearning},
 author={Eli Chien and Chao Pan and Olgica Milenkovic},
